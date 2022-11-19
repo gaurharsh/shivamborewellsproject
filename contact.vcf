@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:-//BBros.us llc//bvCard.com//EN
+N:sample;sample;;;
+FN:sample sample
+EMAIL:yourmail@mail.com
+TEL:000000000
+URL;type=pref:https://sample.domain
+ADR:;tesy;sample;Sampel;Sample;000000;Sample
+END:VCARD
